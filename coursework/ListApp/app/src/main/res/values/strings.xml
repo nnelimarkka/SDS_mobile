@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">List App</string>
+
+    <string-array name="items">
+        <item>Orange</item>
+        <item>Sweetie jaffa</item>
+        <item>Ginger</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.49</item>
+        <item>$0.89</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Fresh Orange</item>
+        <item>Delicious Sweetie jaffa</item>
+        <item>Fresh Ginger</item>
+    </string-array>
+</resources>
