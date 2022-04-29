@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="save">Save</string>
+    <string name="text_color">Text color:</string>
+    <string name="font_style">Font style:</string>
+    <string name="dark_mode">dark mode</string>
+    <string-array name="styles">
+        <item>sans-serif</item>
+        <item>sans-serif-black</item>
+        <item>monospace</item>
+        <item>casual</item>
+    </string-array>
+    <string-array name="colors">
+        <item>black</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+    </string-array>
+</resources>
